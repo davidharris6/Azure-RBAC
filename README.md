@@ -7,7 +7,7 @@
 ![PowerShell](https://img.shields.io/badge/Scripting-PowerShell-5391FE?logo=powershell&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-Least%20Privilege-2E7D32)
 
-> Lab 1 controlled who can access **files inside** a VM. This lab controls who can manage **the VM itself** from Azure, using role-based access control (RBAC) scoped to the narrowest possible target: one resource.
+
 
 ## [🎬 Watch Me Build This Lab!](https://streamable.com/7ndn34)
 
